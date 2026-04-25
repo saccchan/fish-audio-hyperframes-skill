@@ -1,8 +1,33 @@
 # Fish Audio × HyperFrames スキル
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Cursor](https://img.shields.io/badge/Cursor-Agent%20Skill-blue)](https://cursor.sh/)
+[![HyperFrames](https://img.shields.io/badge/HyperFrames-Compatible-green)](https://hyperframes.dev)
+[![Fish Audio](https://img.shields.io/badge/Fish%20Audio-Integrated-orange)](https://fish.audio/)
+
 Fish Audio APIで生成した高品質音声をHyperFramesと統合し、音声同期アニメーション動画を作成するCursorスキルです。
 
 **🎯 台本を書いて、Cursorに頼むだけで、プロ品質のナレーション付きアニメーション動画が完成！**
+
+---
+
+## 📦 インストール
+
+### Cursorに直接インストール
+
+```bash
+# 個人用スキルとしてインストール（全プロジェクトで使える）
+git clone https://github.com/YOUR_USERNAME/fish-audio-hyperframes-skill.git ~/.cursor/skills/fish-audio-hyperframes
+```
+
+### または、ワークスペースにインストール
+
+```bash
+# プロジェクト固有のスキルとして
+git clone https://github.com/YOUR_USERNAME/fish-audio-hyperframes-skill.git .cursor/skills/fish-audio-hyperframes
+```
+
+インストール後、Cursorを再起動してください。
 
 ---
 
